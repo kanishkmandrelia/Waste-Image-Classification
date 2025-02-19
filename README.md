@@ -58,4 +58,28 @@ The web application is built using **Streamlit** for easy accessibility and depl
 4. **Run the Streamlit app:**
    ```bash
    streamlit run app.py
-   
+
+---
+
+## 📁 Project Structure
+
+Waste-Image-Classification/
+│
+├── .devcontainer/                       # Dev container configuration files
+├── DATASET/                             # Dataset directory
+├── .gitattributes                       # Git attributes file
+├── .gitignore                           # Git ignore file
+├── README.md                            # Project documentation
+├── app.py                               # Main Streamlit application
+├── model_CNN.h5                         # Trained CNN model file
+├── requirements.txt                     # Dependencies
+└── waste_classification_notebook.ipynb  # Jupyter notebook
+
+---
+
+## 📬 Contact
+
+For discussion, reach out via:
+
+- 💻 **GitHub**: [kanishkmandrelia](https://github.com/kanishkmandrelia)
+- 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kanishk-mandrelia-048041287/)
