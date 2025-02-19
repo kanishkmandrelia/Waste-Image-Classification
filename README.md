@@ -72,7 +72,7 @@ Waste-Image-Classification/
 ├── model_CNN.h5                         # Trained CNN model file  
 ├── requirements.txt                     # Dependencies  
 └── waste_classification_notebook.ipynb  # Jupyter notebook  
-
+```
 ---
 
 ## 📬 Contact
