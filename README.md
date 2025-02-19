@@ -1,6 +1,3 @@
-https://wasteimageclassification.streamlit.app/
-
-
 # Waste Image Classification
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-blue)](https://wasteimageclassification.streamlit.app/)
