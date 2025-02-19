@@ -8,7 +8,7 @@ https://wasteimageclassification.streamlit.app/
 
 ## 📌 Project Overview
 
-The **Waste Image Classification** project aims to automate the classification of waste images into appropriate categories to promote efficient recycling and waste management. By leveraging deep learning techniques, this project helps in sorting waste, which is crucial for environmental sustainability.
+The **Waste Image Classification** project aims to automate the classification of waste images into appropriate categories to promote efficient recycling and waste management. By leveraging deep learning (CNN) techniques, this project helps in sorting waste, which is crucial for environmental sustainability.
 
 The web application is built using **Streamlit** for easy accessibility and deployment.
 
@@ -26,7 +26,7 @@ The web application is built using **Streamlit** for easy accessibility and depl
 ## 🛠️ Technologies Used
 
 - **Python** 🐍
-- **TensorFlow/Keras** for deep learning models 🧠
+- **TensorFlow/Keras** for CNN model 🧠
 - **Streamlit** for web application deployment 🌐
 - **Pandas & NumPy** for data manipulation 📈
 - **Matplotlib & Seaborn** for visualization 📊
@@ -45,3 +45,17 @@ The web application is built using **Streamlit** for easy accessibility and depl
    ```bash
    git clone https://github.com/kanishkmandrelia/Waste-Image-Classification.git
    cd Waste-Image-Classification
+
+2. **Create a virtual environment (optional but recommended):**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\\Scripts\\activate
+
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run the Streamlit app:**
+   ```bash
+   streamlit run app.py
+   
