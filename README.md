@@ -60,6 +60,7 @@ The web application is built using **Streamlit** for easy accessibility and depl
 
 ## 📁 Project Structure
 
+```text
 Waste-Image-Classification/
 │
 ├── .devcontainer/                       # Dev container configuration files  
