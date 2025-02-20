@@ -80,4 +80,4 @@ Waste-Image-Classification/
 For discussion, reach out via:
 
 - 💻 **GitHub**: [kanishkmandrelia](https://github.com/kanishkmandrelia)
-- 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kanishk-mandrelia-048041287/)
+- 🔗 **LinkedIn**: [Kanishk Mandrelia](https://www.linkedin.com/in/kanishk-mandrelia-048041287/)
